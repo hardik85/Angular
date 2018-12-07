@@ -9,6 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "engines" : {"node" : "8.11.1"},
   "private": true,
   "dependencies": {
     "@angular/cli": "1.5.0",
